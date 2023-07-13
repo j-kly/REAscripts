@@ -1,5 +1,5 @@
 # REAscripts
-Scripts to speed up your spatial audio workflow
+Scripts to speed up your spatial audio workflow in Reaper
 
 HOA_stems2encoder.lua
 This script allows you to automatically route X number of stem tracks to an ambisonic encoder track using mono sends. 
